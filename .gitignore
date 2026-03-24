@@ -1,0 +1,14 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# User-specific files
+appsettings.Development.json
