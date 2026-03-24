@@ -4,11 +4,21 @@
 [Ll]og/
 [Ll]ogs/
 
+# Visual Studio
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
 # Build artifacts
 *.dll
 *.exe
 *.pdb
 *.cache
 
-# User-specific files
-appsettings.Development.json
+# SQLite database files (runtime data)
+*.db
+*.db-shm
+*.db-wal
