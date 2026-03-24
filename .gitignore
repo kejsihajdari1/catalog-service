@@ -1,24 +1,8 @@
-# Build results
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
+# Build outputs
+bin/
+obj/
 
-# Visual Studio
-.vs/
-.idea/
-*.user
-*.suo
-*.userosscache
-*.sln.docstates
-
-# Build artifacts
-*.dll
-*.exe
-*.pdb
-*.cache
-
-# SQLite database files (runtime data)
+# SQLite database (runtime generated)
 *.db
 *.db-shm
 *.db-wal
